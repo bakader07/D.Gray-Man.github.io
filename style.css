@@ -2,6 +2,7 @@ body {
     background-color: #2e4055;
     color: white;
     padding: 10px;
+    margin: 0;
 }
 
 section {
@@ -12,15 +13,24 @@ section {
 }
 
 article {
-    width: 95%;
+    width: 90%;
     padding: 10px;
     margin: 10px;
     margin-left: auto;
     background-color: #0D1B2A;
     color: #778DA9;
+    border: 5px solid #778da9;
 }
 
 mark {
     color: #E0E1DD;
     background-color: #415A77;
+}
+
+hr {
+    width: 90%;
+    margin: 10px;
+    margin-left: auto;
+    border-width: 1px 15px;
+    border-color: #778da9;
 }
