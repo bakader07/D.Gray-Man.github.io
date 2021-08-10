@@ -1,0 +1,26 @@
+body {
+    background-color: #415A77;
+    color: white;
+    padding: 10px;
+}
+
+section {
+    background-color: #1B263B;
+    color: #E0E1DD;
+    padding: 10px;
+    margin: 10px;
+}
+
+article {
+    width: 95%;
+    padding: 10px;
+    margin: 10px;
+    margin-left: auto;
+    background-color: #0D1B2A;
+    color: #778DA9;
+}
+
+mark {
+    color: #E0E1DD;
+    background-color: #415A77;
+}
