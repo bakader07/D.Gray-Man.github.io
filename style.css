@@ -10,6 +10,8 @@ section {
     color: #E0E1DD;
     padding: 10px;
     margin: 10px;
+    border-radius: 10px;
+
 }
 
 article {
@@ -20,6 +22,7 @@ article {
     background-color: #0D1B2A;
     color: #778DA9;
     border: 5px solid #778da9;
+    border-radius: 5px;
 }
 
 mark {
