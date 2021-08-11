@@ -10,7 +10,7 @@ body {
 section {
     background-color: #1B263B;
     color: #E0E1DD;
-    padding: 10px;
+    padding: 20px;
     margin: 20px 10px;
     border-radius: 10px;
 }
@@ -24,6 +24,7 @@ article {
     color: #778DA9;
     border: 5px solid #778da9;
     border-radius: 5px;
+    text-indent: 15px;
 }
 
 mark {
