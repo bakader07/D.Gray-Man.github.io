@@ -60,4 +60,12 @@ a {
 h1 {
     letter-spacing: 4px;
     text-indent: 20px;
+    word-spacing: 5px;
+}
+
+h3,
+h4 {
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    text-indent: 5px;
 }
