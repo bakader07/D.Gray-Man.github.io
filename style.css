@@ -37,3 +37,7 @@ hr {
     border-width: 1px 15px;
     border-color: #778da9;
 }
+
+div img {
+    vertical-align: middle;
+}
