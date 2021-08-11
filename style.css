@@ -55,3 +55,8 @@ a {
 .info p {
     text-transform: capitalize;
 }
+
+h1 {
+    letter-spacing: 4px;
+    text-indent: 20px;
+}
