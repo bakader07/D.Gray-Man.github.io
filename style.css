@@ -57,10 +57,16 @@ a {
     text-transform: capitalize;
 }
 
+@font-face {
+    font-family: dgrayman;
+    src: url(OldEnglishFive.ttf);
+}
+
 h1 {
     letter-spacing: 4px;
     text-indent: 20px;
     word-spacing: 5px;
+    font-family: dgrayman;
 }
 
 h3,
